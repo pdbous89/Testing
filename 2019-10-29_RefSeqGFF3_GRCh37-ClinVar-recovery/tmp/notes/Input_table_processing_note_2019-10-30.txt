@@ -1,0 +1,10 @@
+* NOTE:
+
+2019-10-29_clinvar_path-likely_path.bed, AND
+2019-10-30_joined_RefSeq2Ens_regions.tsv
+
+... were processed in excel to remove the first (header) row for use with pybedtools.
+
+* Extensions were renamed in Finder.
+
+Pavlos Bousounis - 10-30-2019

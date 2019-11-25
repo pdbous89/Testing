@@ -1,0 +1,5 @@
+Note: 3 of the 70334 given identifiers have no match in table refGene, field name or in alias table hgFixed.refLink, field name. Try the "describe table schema" button for more information about the table and field.
+3 missing identifier(s):
+NM_001365455
+NM_003585
+NR_120505

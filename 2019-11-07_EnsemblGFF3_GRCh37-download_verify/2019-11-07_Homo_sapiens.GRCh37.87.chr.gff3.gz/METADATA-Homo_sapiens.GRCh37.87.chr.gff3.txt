@@ -1,0 +1,14 @@
+METADATA for Homo_sapiens.GRCh37.87.gff3.gz
+
+DOWNLOADED ON:
+	4 November, 2019
+	by Pavlos Bousounis
+	
+DOWNLOADED FROM:
+	ftp.ensembl.org/pub/
+	
+DOWNLOADED TO:
+	~/Downloads
+	
+DOWNLOADED FOR:
+	RefSeq_GRCh37 exon validation
